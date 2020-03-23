@@ -5,7 +5,11 @@
 ```
 v-for="(item,index) in list"
 ```
-
+### v-model
+```
+// 通过v-model把数据绑定到控件上
+v-model="listQuery.storeId
+```
 ### v-if v-else-if v-else
 
 ```
